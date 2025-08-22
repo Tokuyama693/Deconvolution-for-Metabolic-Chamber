@@ -2,6 +2,7 @@ Deconvolution for Metabolic Chamber
 This is the Matlab code for implementing an algorithm for human open-circuit whole-room indirect calorimetry by deconvolution with a regularization parameter.
 
 AUTHORS:
+
 Insung Park, [park.insung.ge@u.tsukuba.ac.jp]
 International Institute for Integrative Sleep Medicine, University of Tsukuba, Japan.
 
